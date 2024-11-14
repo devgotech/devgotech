@@ -4,37 +4,22 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 ## Skills
 
-- Programming Languages: Golang, Python, JavaScript
+- Programming Languages: Golang, Python
 - Web Development: HTML, CSS, React
-- Database Technologies: MySQL, MongoDB
+- Database Technologies: Postgres, MongoDB, Mysql
 - Version Control: Git, GitHub
-- Software Testing: JUnit, Selenium
-- Agile Methodologies: Scrum, Kanban
+- Software Testing: 
+- Agile Methodologies: 
 
 ## Projects
 
 ### Project 1: E-commerce Website
-A full-stack e-commerce website built using React, Golang, and MySQL. This project includes features such as user authentication, product catalog, shopping cart, and payment integration.
+A full-stack e-commerce website built using React, Golang, and MongoDB. This project includes features such as user authentication, product catalog, shopping cart, and payment integration.
 
-### Project 2: Data Analysis Tool
-Developed a data analysis tool in Python that performs complex statistical calculations and generates visualizations. Utilized libraries such as NumPy, Pandas, and Matplotlib for data manipulation and visualization.
+### Project 2: 
 
-### Project 3: AirBnB Clone
+### Project 3: 
 
-
-## Experience
-
-### Company ABC
-Software Engineer | 2019 - Present
-- Developed and maintained web applications using Java, Spring, and AngularJS.
-- Collaborated with cross-functional teams to design and implement new features.
-- Conducted code reviews and participated in the agile development process.
-
-### Company XYZ
-Software Development Intern | 2018 - 2019
-- Assisted in the development of a mobile application using React Native.
-- Implemented UI components and integrated with backend APIs.
-- Worked closely with the team to troubleshoot and debug issues.
 
 ## Education
 
