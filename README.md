@@ -28,6 +28,6 @@ A full-stack e-commerce website built using React, Golang, and MongoDB. This pro
 
 ## Contact
 
-Feel free to reach out to me via email at [jameschibey@example.com](mailto:jameschibey@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/james-anyalewechi/). I'm always open to interesting projects and collaborations.
+Feel free to reach out to me via email at [jameschibey@example.com](mailto:jameschibey@gmail.com), [jameschibey@example.com](mailto:jamesgotech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/james-anyalewechi/). I'm always open to interesting projects and collaborations.
 
 Let's build amazing software together!
